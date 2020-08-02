@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>post_name</title>
-    <url>/2020/08/02/post-name/</url>
-    <content><![CDATA[<p><img src="/2020/08/02/post-name/1.png"></p>
-]]></content>
-  </entry>
-  <entry>
     <title>关于小屋</title>
     <url>/2020/07/31/%E5%85%B3%E4%BA%8E%E5%B0%8F%E5%B1%8B/</url>
     <content><![CDATA[<p>这是第一篇文章</p>
@@ -14,6 +8,14 @@
 <p>本小屋用于记录马狗蛋和宋仙女儿的日常</p>
 <pre><code>爱看电视和手机经常没电的宋丹琳</code></pre>
 <p><img src="http://love.sdlnihao.com/2.png"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>post_name</title>
+    <url>/2020/08/02/post-name/</url>
+    <content><![CDATA[<p>我是大哥大 三桥贵志图片</p>
+<a id="more"></a>
+<p><img src="/2020/08/02/post-name/1.png"></p>
 ]]></content>
   </entry>
   <entry>
@@ -29,12 +31,15 @@
   <entry>
     <title>和小宋同志去星空艺术馆</title>
     <url>/2020/08/02/%E5%92%8C%E5%B0%8F%E5%AE%8B%E5%90%8C%E5%BF%97%E5%8E%BB%E6%98%9F%E7%A9%BA%E8%89%BA%E6%9C%AF%E9%A6%86/</url>
-    <content><![CDATA[<p>1月11日，马柠檬和宋丹琳去了星空艺术馆。<br>嗐，怎么都觉是第一次去了一个还可以的地方。<br>放图纪念一下。刚学会的相对路径插入图片。  </p>
-<p> 先拿我的大哥大镇个楼   </p>
+    <content><![CDATA[<p>2020年1月11日，马柠檬和宋丹琳去了星空艺术馆。 </p>
+<a id="more"></a> 
+<p>嗐，怎么都觉是第一次去了一个还可以的地方。<br>放图纪念一下。刚学会的相对路径插入图片。  </p>
 <hr>
 <p> 小宋登月<br> <img src="/2020/08/02/%E5%92%8C%E5%B0%8F%E5%AE%8B%E5%90%8C%E5%BF%97%E5%8E%BB%E6%98%9F%E7%A9%BA%E8%89%BA%E6%9C%AF%E9%A6%86/%E6%9C%88%E4%BA%AE1.jpg" alt="图片未显示">  </p>
 <hr>
-<p> 代表月亮给你竖中指 bqcaihong,1=&#x1F308;<br> <img src="/2020/08/02/%E5%92%8C%E5%B0%8F%E5%AE%8B%E5%90%8C%E5%BF%97%E5%8E%BB%E6%98%9F%E7%A9%BA%E8%89%BA%E6%9C%AF%E9%A6%86/%E6%9C%88%E4%BA%AE2.jpg" alt="图片未显示"></p>
+<p> 代表月亮给你竖中指 &#x1F308;<br> <img src="/2020/08/02/%E5%92%8C%E5%B0%8F%E5%AE%8B%E5%90%8C%E5%BF%97%E5%8E%BB%E6%98%9F%E7%A9%BA%E8%89%BA%E6%9C%AF%E9%A6%86/%E6%9C%88%E4%BA%AE2.jpg" alt="图片未显示"></p>
+<hr>
+<p> 和大熊在一起的小宋<br> (以后给她买个这么大的，清洁的时候让她头疼去吧)<br> <img src="/2020/08/02/%E5%92%8C%E5%B0%8F%E5%AE%8B%E5%90%8C%E5%BF%97%E5%8E%BB%E6%98%9F%E7%A9%BA%E8%89%BA%E6%9C%AF%E9%A6%86/%E7%86%8A.jpg" alt="图片未显示"></p>
 ]]></content>
   </entry>
 </search>
