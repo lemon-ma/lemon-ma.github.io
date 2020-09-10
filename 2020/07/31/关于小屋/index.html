@@ -11,7 +11,7 @@
   <title>
     关于小屋 |
     
-    马狗蛋和宋仙女儿的爱情小屋</title>
+    我和你</title>
   
     <link rel="shortcut icon" href="/favicon.ico">
   
@@ -83,8 +83,8 @@
                                                                         
                                     </div>
                                     <footer class="article-footer">
-                                        <a data-url="http://www.sdlnihao.com/2020/07/31/%E5%85%B3%E4%BA%8E%E5%B0%8F%E5%B1%8B/" data-id="ckewm3lp2000300oj2x7oard1" class="article-share-link">
-                                            Share
+                                        <a data-url="http://www.sdlnihao.com/2020/07/31/%E5%85%B3%E4%BA%8E%E5%B0%8F%E5%B1%8B/" data-id="ckewwhcue0003q8ojbxazhar9" class="article-share-link">
+                                            分享
                                         </a>
                                         
                                     </footer>
@@ -96,7 +96,7 @@
   <nav class="article-nav">
     
       <a href="/2020/07/31/%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2/" class="article-nav-link">
-        <strong class="article-nav-caption">Newer</strong>
+        <strong class="article-nav-caption">前一篇</strong>
         <div class="article-nav-title">
           
             写在前面
@@ -129,11 +129,32 @@
 </ul>
     </div>
     <ul class="list-inline">
-      <li>&copy; 2020 马狗蛋和宋仙女儿的爱情小屋</li>
+      <li>&copy; 2020 我和你</li>
       <li>Powered by <a href="http://hexo.io/" target="_blank">Hexo</a></li>
       <li>Theme  <a target="_blank" rel="noopener" href="https://github.com/zhwangart/hexo-theme-ocean">Ocean</a></li>
+
     </ul>
+    <div>
+    <span id="timeDate">载入天数...</span><span id="times">载入时分秒...</span>
+    <script>
+        var now = new Date();
+        function createtime() {
+            var grt= new Date("11/18/2018 00:09:01");
+            now.setTime(now.getTime()+250);
+            days = (now - grt ) / 1000 / 60 / 60 / 24; dnum = Math.floor(days);
+            hours = (now - grt ) / 1000 / 60 / 60 - (24 * dnum); hnum = Math.floor(hours);
+            if(String(hnum).length ==1 ){hnum = "0" + hnum;} minutes = (now - grt ) / 1000 /60 - (24 * 60 * dnum) - (60 * hnum);
+            mnum = Math.floor(minutes); if(String(mnum).length ==1 ){mnum = "0" + mnum;}
+            seconds = (now - grt ) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum);
+            snum = Math.round(seconds); if(String(snum).length ==1 ){snum = "0" + snum;}
+            document.getElementById("timeDate").innerHTML = "我和小仙女已经相爱 "+dnum+" 天 ";
+            document.getElementById("times").innerHTML = hnum + " 小时 " + mnum + " 分 " + snum + " 秒啦！";
+        }
+    setInterval("createtime()",250);
+    </script>
+    </div>
   </div>
+
 </footer>
 
 </main>
@@ -142,31 +163,31 @@
 <nav class="navbar">
   
     <div class="logo">
-      <a href="/"><img src="/images/hexo.svg" alt="马狗蛋和宋仙女儿的爱情小屋"></a>
+      <a href="/"><img src="/images/hexo.svg" alt="我和你"></a>
     </div>
   
   <ul class="nav nav-main">
     
       <li class="nav-item">
-        <a class="nav-item-link" href="/">Home</a>
+        <a class="nav-item-link" href="/">主页</a>
       </li>
     
       <li class="nav-item">
-        <a class="nav-item-link" href="/archives">Archives</a>
+        <a class="nav-item-link" href="/archives">归档</a>
       </li>
     
       <li class="nav-item">
-        <a class="nav-item-link" href="/gallery">Gallery</a>
+        <a class="nav-item-link" href="/gallery">相册</a>
       </li>
     
       <li class="nav-item">
-        <a class="nav-item-link" href="/about">About</a>
+        <a class="nav-item-link" href="/about">关于</a>
       </li>
     
     <li class="nav-item">
-      <a class="nav-item-link nav-item-search" title="Search">
+      <a class="nav-item-link nav-item-search" title="搜索">
         <i class="fe fe-search"></i>
-        Search
+        搜索
       </a>
     </li>
   </ul>
