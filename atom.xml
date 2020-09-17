@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2020-08-02T03:02:02.844Z</updated>
+  <updated>2020-09-17T14:57:25.615Z</updated>
   <id>/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试</title>
+    <link href="/2020/09/17/%E6%B5%8B%E8%AF%95/"/>
+    <id>/2020/09/17/测试/</id>
+    <published>2020-09-17T14:55:33.000Z</published>
+    <updated>2020-09-17T14:57:25.615Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;图片&lt;img src=&quot;测试/111.png&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>和小宋同志去星空艺术馆</title>
